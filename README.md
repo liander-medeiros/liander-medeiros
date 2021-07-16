@@ -3,7 +3,7 @@
 <p><em>Aerospace Engineering undergrad at <a href="http://www.unb.br">University of Brasilia</a></em></p>
 <p><em>Engineering/IT Intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a></em></p>
 
-[![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)]
+[![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
 [![GitHub Liander](https://img.shields.io/github/followers/liander-alves?label=follow&style=social)](https://github.com/liander-alves)
 
   
@@ -13,7 +13,7 @@ class Liander {
 
 public:
     const char* interests[3] = {"Mathematics", "Electronics", "Engineering"};
-    const char* tools[6] = {"x86 Assembly", "C", "C++", "C#", "Python", "SQL"};
+    const char* tools[6] = {"x86 Assembly", "C", "C++", "C#", "Python", "MATLAB"};
     
 private:
     const char* email = "liander.ma@gmail.com";
