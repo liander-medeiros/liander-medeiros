@@ -4,7 +4,7 @@
 <p><em>Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a></em></p>
 <p><em>Was previously an Engineering/IT intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a></em></p>
 
-[![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
+[![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)]
 [![GitHub Liander](https://img.shields.io/github/followers/liander-alves?label=follow&style=social)](https://github.com/liander-alves)
 
   
