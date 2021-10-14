@@ -7,20 +7,6 @@
 [![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)]
 [![GitHub Liander](https://img.shields.io/github/followers/liander-alves?label=follow&style=social)](https://github.com/liander-alves)
 
-  
+Most of my repos are private (I'm kinda shy with my code) but I'll sure release some cool projects that I feel should be shared :) 
 
-```cxx
-class Liander {
-
-public:
-    const char* interests[3] = {"Mathematics", "Electronics", "Engineering"};
-    const char* tools[6] = {"x86 Assembly", "C", "C++", "C#", "Python", "MATLAB"};
-    
-private:
-    const char* email = "liander.ma@gmail.com";
-}
-
-```
-Most of my repos are (need to be) private but i'll sure release some cool projects that i feel should be shared :) 
-
-<em><b>I really like learning new things from people</b> so if you want to reach out and say hi, <b> I'll be glad to interact!</b> :)</em>
+<em><b>I really like learning new things from people</b> so if you want to reach out and say hi, I'll be glad to interact! :)</em>
