@@ -1,10 +1,27 @@
 <h2> Hello, I'm Liander!</h2>
 <img align='right' src="https://media.giphy.com/media/1n4FT4KRQkDvK0IO4X/giphy.gif"/>
-<p><em>Aerospace Engineering undergrad at <a href="http://www.unb.br">University of Brasilia</a></em></p>
-<p><em>Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a></em></p>
-<p><em>Was previously an Engineering/IT intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a></em></p>
 
-[![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)]
+<p>
+  <em>Aerospace Engineering undergrad at <a href="http://www.unb.br">University of Brasilia</a></em> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/320px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png"      
+     width="30"
+     height="15"
+     onclick="window.location.href('http://www.unb.br');"/>
+</p>
+
+<p>
+  <em>
+    Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a>
+  </em>
+  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/nso82x5c8vfrgxzxcb9o"
+     width="20"
+     height="20"/>
+</p>
+<p>
+  <em>Was previously an Engineering/IT intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a></em>
+</p>
+
+![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
 [![GitHub Liander](https://img.shields.io/github/followers/liander-alves?label=follow&style=social)](https://github.com/liander-alves)
 
 Most of my repos are private (I'm kinda shy with my code) but I'll sure release some cool projects that I feel should be shared :) 
