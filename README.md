@@ -18,7 +18,13 @@
      height="20"/>
 </p>
 <p>
-  <em>Was previously an Portfolio Management intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a></em>
+  <em>
+    Was previously an Portfolio Management intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a>
+  </em>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Ag%C3%AAncia_Espacial_Brasileira_%28logo%29.png"
+     width="60"
+     height="30"/>
+
 </p>
 <p>
 I'm also pursuing a dual degree in electronics engineering &#9889;
@@ -27,9 +33,10 @@ I'm also pursuing a dual degree in electronics engineering &#9889;
 My interests currently are digital design, application specific integrated circuits, real time embedded software, flight control systems and computer vision.
 </p>
 
-Most of my repos are private (I'm kinda shy with my code) but I'll sure release some cool projects that I feel should be shared :) 
+Since I spend most of my time in projects that deal with sensitive/classified info, all my repositories are currently private.
+I have plans to revamp some projects I did as assignments and upload them here as soon as i have time to do it :)
 
-<em><b>I really like learning new things from people</b> so if you want to reach out and say hi, I'll be glad to interact! :)</em>
+<em><b>I really like learning new things from people</b> so if you want to reach out and say hi, I'll be glad to interact!</em>
 
 ![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
 [![GitHub Liander](https://img.shields.io/github/followers/liander-alves?label=follow&style=social)](https://github.com/liander-alves)
