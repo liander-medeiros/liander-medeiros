@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/1n4FT4KRQkDvK0IO4X/giphy.gif"/>
 
 <p>
-  <em>Aerospace Engineering undergrad at <a href="http://www.unb.br">University of Brasilia</a></em> 
+  <em>Graduating in Aerospace Engineering at <a href="http://www.unb.br">University of Brasilia</a></em> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/320px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png"      
      width="30"
      height="15"
