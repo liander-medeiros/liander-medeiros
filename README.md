@@ -13,18 +13,11 @@
   <em>
     Product Development intern (Computer Vision) at <a href="https://www.altave.com.br">ALTAVE</a>
   </em>
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/nso82x5c8vfrgxzxcb9o"
-     width="20"
-     height="20"/>
 </p>
 <p>
   <em>
     Was previously an Portfolio Management intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a>
   </em>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Ag%C3%AAncia_Espacial_Brasileira_%28logo%29.png"
-     width="60"
-     height="30"/>
-
 </p>
 <p>
 I'm also pursuing a dual degree in electronics engineering &#9889;
