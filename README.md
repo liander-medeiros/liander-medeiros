@@ -26,7 +26,7 @@ I'm also pursuing a dual degree in electronics engineering &#9889;
 My interests currently are digital design, application specific integrated circuits, real time embedded software, flight control systems and computer vision.
 </p>
 
-Since I spend most of my time in projects that deal with sensitive/classified info, all my repositories are currently private.
+Since I spend most of my time in projects that are not open-source, all my repositories are currently private.
 I have plans to revamp some projects I did as assignments and upload them here as soon as i have time to do it :)
 
 <em><b>I really like learning new things from people</b> so if you want to reach out and say hi, I'll be glad to interact!</em>
