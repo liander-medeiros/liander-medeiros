@@ -23,7 +23,7 @@
 I'm also pursuing a dual degree in electronics engineering &#9889;
 </p>
 <p>
-My interests currently are digital design, application specific integrated circuits, real time embedded software, flight control systems and computer vision.
+My interests currently are flight control systems, embedded systems, high performance computing and software development.
 </p>
 
 Since I spend most of my time in projects that are not open-source, all my repositories are currently private.
