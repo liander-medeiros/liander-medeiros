@@ -10,12 +10,12 @@
 </p>
 <p>
   <em>
-    Product Engineering intern (Avionics and Flight Controls) at <a href="https://eveairmobility.com/">Eve Air Mobility</a>
+    Systems Engineering intern (Avionics and Flight Controls) at <a href="https://eveairmobility.com/">Eve Air Mobility</a>
   </em>
 </p>
 <p>
   <em>
-    Interned previously as computer vision developer at <a href="https://www.altave.com.br">ALTAVE</a>
+    Worked previously as a Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a>
   </em>
 </p>
 <p>
@@ -27,13 +27,8 @@
 I'm pursuing a dual degree in electronics engineering &#9889;
 </p>
 <p>
-My interests currently are flight control systems, embedded systems, high performance computing and software development.
+My interests currently are flight mechanics, control systems, embedded systems, high performance computing and software development.
 </p>
-
-Since I spend most of my time in projects that are not open-source, all my repositories are currently private.
-I have plans to revamp some projects I did as assignments and upload them here as soon as i have time to do it :)
-
-<em><b>I really like learning new things from people</b> so if you want to reach out and say hi, I'll be glad to interact!</em>
 
 ![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
 [![GitHub Liander](https://img.shields.io/github/followers/liander-medeiros?label=follow&style=social)](https://github.com/liander-alves)
