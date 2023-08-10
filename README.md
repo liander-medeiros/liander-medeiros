@@ -10,17 +10,22 @@
 </p>
 <p>
   <em>
-    Systems Engineering intern (Avionics and Flight Controls) at <a href="https://eveairmobility.com/">Eve Air Mobility</a>
+      Currently working as a Data Scientist at <a href="https://stefanini.com/en">Stefanini</a>
   </em>
 </p>
 <p>
   <em>
-    Worked previously as a Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a>
+    (2022 - 2023) Systems Engineering intern (Avionics and Flight Controls) at <a href="https://eveairmobility.com/">Eve Air Mobility</a>
   </em>
 </p>
 <p>
   <em>
-    Also developed software as Portfolio Management intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a>
+    (2021 - 2022) Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a>
+  </em>
+</p>
+<p>
+  <em>
+    (2020 - 2021) Software Development intern at <a href="https://www.gov.br/aeb/">Brazilian Space Agency</a>
   </em>
 </p>
 <p>
