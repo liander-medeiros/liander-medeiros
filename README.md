@@ -1,6 +1,5 @@
 <h2> Hello, I'm Liander!</h2>
 <img align='right' src="https://media.giphy.com/media/1n4FT4KRQkDvK0IO4X/giphy.gif"/>
-
 <p>
   <em>Graduating in Aerospace Engineering at <a href="http://www.unb.br">University of Brasilia</a></em> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/320px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png"      
@@ -10,7 +9,7 @@
 </p>
 <p>
   <em>
-      Currently working as a Data Scientist at <a href="https://stefanini.com/en">Stefanini</a>
+      Currently working as a Software Developer at <a href="https://stefanini.com/en">Stefanini</a>
   </em>
 </p>
 <p>
@@ -29,10 +28,10 @@
   </em>
 </p>
 <p>
-I'm pursuing a dual degree in electronics engineering &#9889;
+I'm pursuing a dual degree in software engineering &#9889;
 </p>
 <p>
-My interests currently are flight mechanics, control systems, embedded systems, high performance computing and software development.
+My interests currently are high performance computing, avionics and flight control systems.
 </p>
 
 ![Linkedin: liander](https://img.shields.io/badge/-liander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liander/)
