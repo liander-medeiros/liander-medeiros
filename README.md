@@ -21,7 +21,7 @@ Previous experiences:
     (2022 - 2023) Systems Engineering intern (Avionics and Flight Controls) at <a href="https://eveairmobility.com/">Eve Air Mobility</a>
   </em>
 </p>
-<p style="text-indent: 30px">
+<p>
   <em>
     (2021 - 2022) Computer Vision intern at <a href="https://www.altave.com.br">ALTAVE</a>
   </em>
